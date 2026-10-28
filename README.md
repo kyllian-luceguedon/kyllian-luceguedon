@@ -1,16 +1,20 @@
-## Hi there 👋
+# Kyllian Luce--Guédon
 
-<!--
-**kyllian-luceguedon/kyllian-luceguedon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en L3 double licence mathématiques-informatique à CY Cergy Paris Université. Je programme en Java, PHP, Python, C et SQL.
 
-Here are some ideas to get you started:
+## Projets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mes dépôts sont privés pour l'instant, donc sans lien ici. Les trois projets de L2 se sont terminés par une soutenance orale.
+
+- **Simulateur d'auto-école** (Java, L2 semestre 4, en binôme) : moteur physique, détection des infractions, tests JUnit. Ma part : moteur physique, rendu 2D, écrans Swing, internationalisation.
+- **Site de prix des carburants** (PHP 8, L2 semestre 4, en binôme) : sans framework ni JavaScript, API REST en JSON et en XML. Ma part : page technique, cookies, mode jour/nuit.
+- **Gestionnaire de playlists MP3** (Java, L2 semestre 3, en binôme) : lecture des tags ID3, export XSPF, JSPF et M3U8, interfaces en ligne de commande et Swing. Ma part : ligne de commande, modèle, intégration de mp3agic.
+- **Puissance 4 en terminal** (Python, L1 semestre 2, en binôme) : jeu pour deux joueurs sur le même clavier.
+
+## Technologies
+
+Java, PHP, Python, C, SQL, shell Linux, LaTeX.
+
+## Contact
+
+Message LinkedIn : [URL LINKEDIN]
