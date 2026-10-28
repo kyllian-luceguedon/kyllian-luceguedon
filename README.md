@@ -17,4 +17,4 @@ Java, PHP, Python, C, SQL, shell Linux, LaTeX.
 
 ## Contact
 
-Message LinkedIn : [URL LINKEDIN]
+Message LinkedIn : [[URL LINKEDIN]](https://www.linkedin.com/in/kyllian-luce-guedon/)
